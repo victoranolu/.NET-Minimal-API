@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\.NET Minimal API\\SixMinAPI\\SixMinAPI.csproj": {}
+    "/home/victor/.NET-Minimal-API/SixMinAPI/SixMinAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\.NET Minimal API\\SixMinAPI\\SixMinAPI.csproj": {
+    "/home/victor/.NET-Minimal-API/SixMinAPI/SixMinAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\.NET Minimal API\\SixMinAPI\\SixMinAPI.csproj",
+        "projectUniqueName": "/home/victor/.NET-Minimal-API/SixMinAPI/SixMinAPI.csproj",
         "projectName": "SixMinAPI",
-        "projectPath": "C:\\Users\\USER\\.NET Minimal API\\SixMinAPI\\SixMinAPI.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\.NET Minimal API\\SixMinAPI\\obj\\",
+        "projectPath": "/home/victor/.NET-Minimal-API/SixMinAPI/SixMinAPI.csproj",
+        "packagesPath": "/home/victor/.nuget/packages/",
+        "outputPath": "/home/victor/.NET-Minimal-API/SixMinAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/victor/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -67,8 +67,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -80,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.418\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.126/RuntimeIdentifierGraph.json"
         }
       }
     }
