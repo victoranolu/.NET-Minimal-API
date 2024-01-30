@@ -1,11 +1,10 @@
-version: '3.6'
+version: '3.7'
 services:
  sqlserver:
    image: "mcr.microsoft.com/mssql/server:2019-latest"
    environment: 
      ACCEPT_EULA: "Y"
-     SA_PASSWORD: "manso098_"
+     SA_PASSWORD: $PASSWORD
      MYSQL_PID: "Express"
    ports:
     - "1433:1433"
-
