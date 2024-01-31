@@ -1,0 +1,7 @@
+/home/victor/.NET-Minimal-API/SixMinAPI/obj/Debug/net6.0/SixMinAPI.csproj.AssemblyReference.cache
+/home/victor/.NET-Minimal-API/SixMinAPI/obj/Debug/net6.0/SixMinAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/.NET-Minimal-API/SixMinAPI/obj/Debug/net6.0/SixMinAPI.AssemblyInfoInputs.cache
+/home/victor/.NET-Minimal-API/SixMinAPI/obj/Debug/net6.0/SixMinAPI.AssemblyInfo.cs
+/home/victor/.NET-Minimal-API/SixMinAPI/obj/Debug/net6.0/SixMinAPI.csproj.CoreCompileInputs.cache
+/home/victor/.NET-Minimal-API/SixMinAPI/obj/Debug/net6.0/SixMinAPI.MvcApplicationPartsAssemblyInfo.cs
+/home/victor/.NET-Minimal-API/SixMinAPI/obj/Debug/net6.0/SixMinAPI.MvcApplicationPartsAssemblyInfo.cache
